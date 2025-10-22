@@ -33,7 +33,7 @@ STEP-5: Combine all these groups to get the complete cipher text.
 NAME: PREETHI A K
 REG NO. :212223230156
 
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -94,6 +94,7 @@ int main()
 
     return 0;
 }
+```
 
 ## OUTPUT
 <img width="563" height="125" alt="image" src="https://github.com/user-attachments/assets/fb1bf508-70af-40d0-926f-f38bfbd8bcb8" />
